@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    padding: 8px;
+}
+p {
+    padding: 4px;
+    margin-bottom: 16px;
+}
+#ausgabe {
+    display: flex;
+    justify-content: space-evenly;
+}
+.error {
+    color: red;
+}
